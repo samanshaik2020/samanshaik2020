@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&height=55&lines=Building+AI+Products+from+Hyderabad+🇮🇳;GenAI+Engineer+%40+Accenture;Founder+of+Squpage+%7C+Popiup+%7C+Seolnk;YouTuber+%40+AImpactDaily+%7C+10K%2B+Views;Turning+ideas+into+deployed+products." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&height=55&lines=Building+AI+Products+from+Hyderabad+🇮🇳;GenAI+Engineer+%7C+Full+Stack+Developer;Founder+of+Squpage+%7C+Popiup+%7C+Seolnk;YouTuber+%40+AImpactDaily+%7C+10K%2B+Views;Turning+ideas+into+deployed+products." />
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ```ts
 const saman = {
-  role       : "GenAI Engineer @ Accenture (FS Domain)",
+  role       : "GenAI Engineer | Full Stack Developer",
   location   : "Hyderabad, India 🇮🇳",
   education  : "B.Tech CS & Engineering — Class of 2025",
 
